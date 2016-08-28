@@ -1,0 +1,42 @@
+#mainPic{
+  width: 100%;
+  higth: 200px;;
+}
+
+h1{
+  margin-top: -40px;
+}
+
+.trFont{
+  font-size: 16px;
+}
+
+.formStyle{
+  margin-top: 100px;
+}
+
+.input1{
+  background-color: #F9EBEA
+}
+.input2{
+  background-color: #F5EEF8
+}
+.input3{
+  background-color: #EAF2F8
+}
+.input4{
+  background-color: #E8F8F5
+}
+.input5{
+  background-color: #FEF9E7
+}
+.input6{
+  background-color: #FAE5D3
+}
+.input7{
+  background-color: #FAD7A0
+}
+
+.pfont{
+  font-size: 26px;
+}
